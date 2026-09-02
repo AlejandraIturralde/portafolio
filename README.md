@@ -7,19 +7,19 @@ Este repositorio reúne los proyectos, prácticas y trabajos desarrollados duran
 ## Materias
 
 ### Bases de Datos I
-Proyectos relacionados con SQL, PostgreSQL, diseño de bases de datos y normalización.
+Proyectos relacionados con SQL, PostgreSQL, modelado de bases de datos, normalización y consultas.
 
 ### Programación Orientada a Objetos
-Proyectos desarrollados utilizando Java y conceptos de programación orientada a objetos.
+Proyectos desarrollados utilizando Java y aplicando principios de programación orientada a objetos.
 
 ### Estructuras de Datos
-Implementación y uso de listas, pilas, colas, árboles, mapas y otras estructuras.
+Implementación y uso de listas, pilas, colas, árboles, mapas y otras estructuras de datos.
 
 ### Bases de Datos II
-Proyectos relacionados con la manipulacion de base de datos.
+Proyectos enfocados en consultas avanzadas, funciones, procedimientos, triggers y manipulación de bases de datos.
 
-### Lenguajes de Programacion
-Proyectos enfocados en el uso de diferentes lenguajes con paradigmas.
+### Lenguajes de Programación
+Proyectos desarrollados utilizando distintos lenguajes y paradigmas de programación.
 
 
 ---
