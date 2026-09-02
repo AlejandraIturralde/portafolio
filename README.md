@@ -6,7 +6,7 @@ Este repositorio reúne los proyectos, prácticas y trabajos desarrollados duran
 
 ## Materias
 
-### Base de Datos I
+### Bases de Datos I
 Proyectos relacionados con SQL, PostgreSQL, diseño de bases de datos y normalización.
 
 ### Programación Orientada a Objetos
